@@ -11,3 +11,16 @@ h2
 {
     font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
+#container
+{
+    width: 80%; 
+    padding: 1em;
+    text-align: center;
+    border: 30px solid rgb(7, 88, 48);
+    margin: 0 auto;
+}
+#container h1
+{
+    font-size: xx-large;
+    font-family: sans-serif;
+}
