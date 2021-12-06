@@ -38,4 +38,10 @@ h2
 {
     width: 300px;
     vertical-align: text-bottom;
+    padding: 0;
+}
+#pie
+{
+ background: blue;
+ padding: 0.5em;
 }
