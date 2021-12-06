@@ -32,5 +32,10 @@ h2
     font-family: "Arial";
     font-size: 30px;
     margin: 0;
-    padding: 0;
+    padding: 0.5em 0 0.5em 2em;
+}
+#cabecera #logo
+{
+    width: 300px;
+    vertical-align: text-bottom;
 }
