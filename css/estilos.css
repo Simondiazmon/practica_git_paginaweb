@@ -43,6 +43,7 @@ h2
 #pie
 {
  text-decoration-color: bisque;   
+ color: black;
  background: blue;
  padding: 0.5em;
 }
