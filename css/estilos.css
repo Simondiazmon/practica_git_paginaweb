@@ -41,9 +41,8 @@ h2
     padding: 0;
 }
 #pie
-{
- text-decoration-color: bisque;   
- color: black;
- background: blue;
+{  
+ color: rgb(255, 255, 255);
+ background: rgb(59, 59, 187);
  padding: 0.5em;
 }
